@@ -46,19 +46,7 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<style>
-img:hover {
-  animation: shake 0.5s;
-}
 
-@keyframes shake {
-  0% { transform: translate(0, 0) rotate(0); }
-  25% { transform: translate(-2px, 0) rotate(-1deg); }
-  50% { transform: translate(2px, 0) rotate(1deg); }
-  75% { transform: translate(-2px, 0) rotate(-1deg); }
-  100% { transform: translate(0, 0) rotate(0); }
-}
-</style>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Poulomi900&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
